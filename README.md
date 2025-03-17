@@ -36,7 +36,7 @@
 ### Bước 1: Clone repository
 
 ```bash
-git clone https://github.com/HoangAnhDev/instagram-account-checker.git
+git clone https://github.com/hasoftware/instagram-account-checker.git
 cd instagram-account-checker
 ```
 
