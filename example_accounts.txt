@@ -1,0 +1,5 @@
+instagram|password123|email@example.com
+zuck|meta123|mark@facebook.com
+elonmusk|tesla123|elon@spacex.com
+billgates|microsoft123|bill@microsoft.com
+jeffbezos|amazon123|jeff@amazon.com 
