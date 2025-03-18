@@ -180,7 +180,7 @@ pip install requests colorama tabulate
 
 ## 📞 Liên hệ
 
-- **Telegram**: [@HoangAnhDev](https://t.me/HoangAnhDev)
+- **Telegram**: [@HASoftware](https://t.me/HASoftware)
 - **GitHub**: [HoangAnhDev](https://github.com/HoangAnhDev)
 
 ## 📜 Giấy phép
